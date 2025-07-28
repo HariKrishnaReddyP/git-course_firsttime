@@ -1,1 +1,2 @@
-My first Git Repository
+User Name - pkrhkr
+Password - hari
